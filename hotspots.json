@@ -1,47 +1,184 @@
+```json
 [
   {
     "id": 1,
     "name": "Markthal Rotterdam",
     "description": "Bekende foodhall in Rotterdam",
     "address": "Dominee Jan Scharpstraat 298, Rotterdam",
-    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
     "latitude": 51.9202,
-    "longitude": 4.4864
+    "longitude": 4.4864,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Markthal_Rotterdam.jpg"
   },
   {
     "id": 2,
     "name": "Euromast",
     "description": "Uitkijktoren in Rotterdam",
     "address": "Parkhaven 20, Rotterdam",
-    "image": "https://images.unsplash.com/photo-1514565131-fce0801e5785",
     "latitude": 51.9054,
-    "longitude": 4.4662
+    "longitude": 4.4662,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Rotterdam_euromast.jpg"
   },
   {
     "id": 3,
     "name": "Kinderdijk",
     "description": "Werelderfgoed met molens",
     "address": "Nederwaard 1, Kinderdijk",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
     "latitude": 51.8860,
-    "longitude": 4.6320
+    "longitude": 4.6320,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/KinderdijkMolens.jpg"
   },
   {
     "id": 4,
     "name": "Mauritshuis",
     "description": "Museum in Den Haag",
     "address": "Plein 29, Den Haag",
-    "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04",
     "latitude": 52.0808,
-    "longitude": 4.3140
+    "longitude": 4.3140,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mauritshuis.jpg"
   },
   {
     "id": 5,
     "name": "Scheveningen",
     "description": "Badplaats aan zee",
-    "address": "Strandweg, Den Haag",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "address": "Boulevard, Scheveningen",
     "latitude": 52.1040,
-    "longitude": 4.2730
+    "longitude": 4.2730,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Scheveningen_beach.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kubuswoningen",
+    "description": "Bijzondere woningen in Rotterdam",
+    "address": "Overblaak 70, Rotterdam",
+    "latitude": 51.9201,
+    "longitude": 4.4885,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Kubuswoningen_Rotterdam.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Erasmusbrug",
+    "description": "Iconische brug van Rotterdam",
+    "address": "Erasmusbrug, Rotterdam",
+    "latitude": 51.9090,
+    "longitude": 4.4840,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Erasmusbrug.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Madurodam",
+    "description": "Miniatuurstad in Den Haag",
+    "address": "George Maduroplein 1, Den Haag",
+    "latitude": 52.0999,
+    "longitude": 4.2975,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Madurodam.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Binnenhof",
+    "description": "Politiek centrum van Nederland",
+    "address": "Binnenhof, Den Haag",
+    "latitude": 52.0806,
+    "longitude": 4.3127,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Binnenhof.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Peace Palace",
+    "description": "Internationaal gerechtshof",
+    "address": "Carnegieplein 2, Den Haag",
+    "latitude": 52.0865,
+    "longitude": 4.2950,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Peace_Palace.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Diergaarde Blijdorp",
+    "description": "Dierentuin in Rotterdam",
+    "address": "Blijdorplaan 8, Rotterdam",
+    "latitude": 51.9274,
+    "longitude": 4.4468,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Blijdorp.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Louwman Museum",
+    "description": "Museum voor klassieke auto's",
+    "address": "Leidsestraatweg 57, Den Haag",
+    "latitude": 52.1068,
+    "longitude": 4.3433,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Louwman_Museum.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Museum Boijmans Depot",
+    "description": "Publiek toegankelijk kunstdepot",
+    "address": "Museumpark 24, Rotterdam",
+    "latitude": 51.9144,
+    "longitude": 4.4724,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Depot_Boijmans.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Nieuwe Kerk Delft",
+    "description": "Historische kerk in Delft",
+    "address": "Markt 80, Delft",
+    "latitude": 52.0116,
+    "longitude": 4.3571,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Nieuwe_Kerk_Delft.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Oude Haven",
+    "description": "Historische haven in Rotterdam",
+    "address": "Oude Haven, Rotterdam",
+    "latitude": 51.9194,
+    "longitude": 4.4893,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Oude_Haven_Rotterdam.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Keukenhof",
+    "description": "Wereldberoemd bloemenpark",
+    "address": "Stationsweg 166A, Lisse",
+    "latitude": 52.2712,
+    "longitude": 4.5460,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Keukenhof.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Noordwijk Strand",
+    "description": "Strandplaats aan de kust",
+    "address": "Boulevard, Noordwijk",
+    "latitude": 52.2425,
+    "longitude": 4.4332,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Noordwijk.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Royal Delft",
+    "description": "Fabriek van Delfts Blauw",
+    "address": "Rotterdamseweg 196, Delft",
+    "latitude": 52.0034,
+    "longitude": 4.3698,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Royal_Delft.jpg"
+  },
+  {
+    "id": 19,
+    "name": "De Pier",
+    "description": "Pier in Scheveningen",
+    "address": "Strandweg 150, Scheveningen",
+    "latitude": 52.1148,
+    "longitude": 4.2817,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pier_Scheveningen.jpg"
+  },
+  {
+    "id": 20,
+    "name": "SS Rotterdam",
+    "description": "Historisch cruiseschip",
+    "address": "3e Katendrechtse Hoofd 25, Rotterdam",
+    "latitude": 51.9004,
+    "longitude": 4.4791,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/SS_Rotterdam.jpg"
   }
 ]
+```
