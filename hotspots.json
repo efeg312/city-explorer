@@ -44,139 +44,139 @@
     "latitude": 52.1040,
     "longitude": 4.2730
   },
-{
-  "id": 6,
-  "name": "Kubuswoningen",
-  "description": "Bijzondere woningen in Rotterdam",
-  "address": "Overblaak 70, Rotterdam",
-  "image": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2",
-  "latitude": 51.9201,
-  "longitude": 4.4885
-},
-{
-  "id": 7,
-  "name": "Erasmusbrug",
-  "description": "Iconische brug van Rotterdam",
-  "address": "Erasmusbrug, Rotterdam",
-  "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
-  "latitude": 51.9090,
-  "longitude": 4.4840
-},
-{
-  "id": 8,
-  "name": "Madurodam",
-  "description": "Miniatuurstad in Den Haag",
-  "address": "George Maduroplein 1, Den Haag",
-  "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
-  "latitude": 52.0999,
-  "longitude": 4.2975
-},
-{
-  "id": 9,
-  "name": "Binnenhof",
-  "description": "Politiek centrum van Nederland",
-  "address": "Binnenhof, Den Haag",
-  "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
-  "latitude": 52.0806,
-  "longitude": 4.3127
-},
-{
-  "id": 10,
-  "name": "Peace Palace",
-  "description": "Internationaal gerechtshof",
-  "address": "Carnegieplein 2, Den Haag",
-  "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
-  "latitude": 52.0865,
-  "longitude": 4.2950
-},
-{
-  "id": 11,
-  "name": "Diergaarde Blijdorp",
-  "description": "Dierentuin in Rotterdam",
-  "address": "Blijdorplaan 8, Rotterdam",
-  "image": "https://images.unsplash.com/photo-1546182990-dffeafbe841d",
-  "latitude": 51.9274,
-  "longitude": 4.4468
-},
-{
-  "id": 12,
-  "name": "Louwman Museum",
-  "description": "Museum voor klassieke auto's",
-  "address": "Leidsestraatweg 57, Den Haag",
-  "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
-  "latitude": 52.1068,
-  "longitude": 4.3433
-},
-{
-  "id": 13,
-  "name": "Museum Boijmans Depot",
-  "description": "Publiek toegankelijk kunstdepot",
-  "address": "Museumpark 24, Rotterdam",
-  "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7",
-  "latitude": 51.9144,
-  "longitude": 4.4724
-},
-{
-  "id": 14,
-  "name": "Nieuwe Kerk Delft",
-  "description": "Historische kerk in Delft",
-  "address": "Markt 80, Delft",
-  "image": "https://images.unsplash.com/photo-1520637836862-4d197d17c90a",
-  "latitude": 52.0116,
-  "longitude": 4.3571
-},
-{
-  "id": 15,
-  "name": "Oude Haven",
-  "description": "Historische haven in Rotterdam",
-  "address": "Oude Haven, Rotterdam",
-  "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
-  "latitude": 51.9194,
-  "longitude": 4.4893
-},
-{
-  "id": 16,
-  "name": "Keukenhof",
-  "description": "Wereldberoemd bloemenpark",
-  "address": "Stationsweg 166A, Lisse",
-  "image": "https://images.unsplash.com/photo-1468327768560-75b778cbb551",
-  "latitude": 52.2712,
-  "longitude": 4.5460
-},
-{
-  "id": 17,
-  "name": "Noordwijk Strand",
-  "description": "Strandplaats aan de kust",
-  "address": "Boulevard, Noordwijk",
-  "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-  "latitude": 52.2425,
-  "longitude": 4.4332
-},
-{
-  "id": 18,
-  "name": "Royal Delft",
-  "description": "Fabriek van Delfts Blauw",
-  "address": "Rotterdamseweg 196, Delft",
-  "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
-  "latitude": 52.0034,
-  "longitude": 4.3698
-},
-{
-  "id": 19,
-  "name": "De Pier",
-  "description": "Pier in Scheveningen",
-  "address": "Strandweg 150, Scheveningen",
-  "image": "https://images.unsplash.com/photo-1505142468610-359e7d316be0",
-  "latitude": 52.1148,
-  "longitude": 4.2817
-},
-{
-  "id": 20,
-  "name": "SS Rotterdam",
-  "description": "Historisch cruiseschip",
-  "address": "3e Katendrechtse Hoofd 25, Rotterdam",
-  "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d",
-  "latitude": 51.9004,
-  "longitude": 4.4791
-}
+  {
+    "id": 6,
+    "name": "Kubuswoningen",
+    "description": "Bijzondere woningen in Rotterdam",
+    "address": "Overblaak 70, Rotterdam",
+    "image": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2",
+    "latitude": 51.9201,
+    "longitude": 4.4885
+  },
+  {
+    "id": 7,
+    "name": "Erasmusbrug",
+    "description": "Iconische brug van Rotterdam",
+    "address": "Erasmusbrug, Rotterdam",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "latitude": 51.9090,
+    "longitude": 4.4840
+  },
+  {
+    "id": 8,
+    "name": "Madurodam",
+    "description": "Miniatuurstad in Den Haag",
+    "address": "George Maduroplein 1, Den Haag",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "latitude": 52.0999,
+    "longitude": 4.2975
+  },
+  {
+    "id": 9,
+    "name": "Binnenhof",
+    "description": "Politiek centrum van Nederland",
+    "address": "Binnenhof, Den Haag",
+    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
+    "latitude": 52.0806,
+    "longitude": 4.3127
+  },
+  {
+    "id": 10,
+    "name": "Peace Palace",
+    "description": "Internationaal gerechtshof",
+    "address": "Carnegieplein 2, Den Haag",
+    "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+    "latitude": 52.0865,
+    "longitude": 4.2950
+  },
+  {
+    "id": 11,
+    "name": "Diergaarde Blijdorp",
+    "description": "Dierentuin in Rotterdam",
+    "address": "Blijdorplaan 8, Rotterdam",
+    "image": "https://images.unsplash.com/photo-1546182990-dffeafbe841d",
+    "latitude": 51.9274,
+    "longitude": 4.4468
+  },
+  {
+    "id": 12,
+    "name": "Louwman Museum",
+    "description": "Museum voor klassieke auto's",
+    "address": "Leidsestraatweg 57, Den Haag",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+    "latitude": 52.1068,
+    "longitude": 4.3433
+  },
+  {
+    "id": 13,
+    "name": "Museum Boijmans Depot",
+    "description": "Publiek toegankelijk kunstdepot",
+    "address": "Museumpark 24, Rotterdam",
+    "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7",
+    "latitude": 51.9144,
+    "longitude": 4.4724
+  },
+  {
+    "id": 14,
+    "name": "Nieuwe Kerk Delft",
+    "description": "Historische kerk in Delft",
+    "address": "Markt 80, Delft",
+    "image": "https://images.unsplash.com/photo-1520637836862-4d197d17c90a",
+    "latitude": 52.0116,
+    "longitude": 4.3571
+  },
+  {
+    "id": 15,
+    "name": "Oude Haven",
+    "description": "Historische haven in Rotterdam",
+    "address": "Oude Haven, Rotterdam",
+    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+    "latitude": 51.9194,
+    "longitude": 4.4893
+  },
+  {
+    "id": 16,
+    "name": "Keukenhof",
+    "description": "Wereldberoemd bloemenpark",
+    "address": "Stationsweg 166A, Lisse",
+    "image": "https://images.unsplash.com/photo-1468327768560-75b778cbb551",
+    "latitude": 52.2712,
+    "longitude": 4.5460
+  },
+  {
+    "id": 17,
+    "name": "Noordwijk Strand",
+    "description": "Strandplaats aan de kust",
+    "address": "Boulevard, Noordwijk",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "latitude": 52.2425,
+    "longitude": 4.4332
+  },
+  {
+    "id": 18,
+    "name": "Royal Delft",
+    "description": "Fabriek van Delfts Blauw",
+    "address": "Rotterdamseweg 196, Delft",
+    "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+    "latitude": 52.0034,
+    "longitude": 4.3698
+  },
+  {
+    "id": 19,
+    "name": "De Pier",
+    "description": "Pier in Scheveningen",
+    "address": "Strandweg 150, Scheveningen",
+    "image": "https://images.unsplash.com/photo-1505142468610-359e7d316be0",
+    "latitude": 52.1148,
+    "longitude": 4.2817
+  },
+  {
+    "id": 20,
+    "name": "SS Rotterdam",
+    "description": "Historisch cruiseschip",
+    "address": "3e Katendrechtse Hoofd 25, Rotterdam",
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d",
+    "latitude": 51.9004,
+    "longitude": 4.4791
+  }
 ]
