@@ -1,51 +1,49 @@
-```json
 [
   {
     "id": 1,
     "name": "Markthal Rotterdam",
     "description": "Bekende foodhall in Rotterdam",
     "address": "Dominee Jan Scharpstraat 298, Rotterdam",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
     "latitude": 51.9202,
-    "longitude": 4.4864,
-    "image": "https://source.unsplash.com/800x600/?markthal,rotterdam"
+    "longitude": 4.4864
   },
   {
     "id": 2,
     "name": "Euromast",
     "description": "Uitkijktoren in Rotterdam",
     "address": "Parkhaven 20, Rotterdam",
+    "image": "https://images.unsplash.com/photo-1514565131-fce0801e5785",
     "latitude": 51.9054,
-    "longitude": 4.4662,
-    "image": "https://source.unsplash.com/800x600/?tower,rotterdam"
+    "longitude": 4.4662
   },
   {
     "id": 3,
     "name": "Kinderdijk",
     "description": "Werelderfgoed met molens",
     "address": "Nederwaard 1, Kinderdijk",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
     "latitude": 51.8860,
-    "longitude": 4.6320,
-    "image": "https://source.unsplash.com/800x600/?windmill,netherlands"
+    "longitude": 4.6320
   },
   {
     "id": 4,
     "name": "Mauritshuis",
     "description": "Museum in Den Haag",
     "address": "Plein 29, Den Haag",
+    "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04",
     "latitude": 52.0808,
-    "longitude": 4.3140,
-    "image": "https://source.unsplash.com/800x600/?museum,hague"
+    "longitude": 4.3140
   },
   {
     "id": 5,
     "name": "Scheveningen",
     "description": "Badplaats aan zee",
-    "address": "Boulevard, Scheveningen",
+    "address": "Strandweg, Den Haag",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
     "latitude": 52.1040,
-    "longitude": 4.2730,
-    "image": "https://source.unsplash.com/800x600/?beach,netherlands"
+    "longitude": 4.2730
   },
-  ```json
 {
   "id": 6,
   "name": "Kubuswoningen",
@@ -181,7 +179,4 @@
   "latitude": 51.9004,
   "longitude": 4.4791
 }
-```
-
 ]
-```
